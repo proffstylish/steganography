@@ -3,8 +3,6 @@ Since I wanted to look into steganography for some time, this is a small project
 
 It provides functionality to **encode** a message in an image and to **decode** the message from the image.
 
-Head over to [the github page](http://stylesuxx.github.io/steganography/) and check out the online decoder and encoder.
-
 ## About Steganography
 
 Steganography is the art of hiding a message inside another message. In this case we will hide a text message inside an image.
